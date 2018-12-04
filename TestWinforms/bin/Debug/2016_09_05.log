@@ -1,0 +1,23 @@
+Log 05/09/2016 12:00:00 a. m.
+16:41	Ok	setConexionDB	Conectado a Database Shaman
+16:42	Ok	ReadGPSDevices	Obtengo móviles activos
+16:42	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 01
+16:42	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 02
+16:42	Error	ReadGPSDevices	La fecha/hora del móvil 03 es superior a la del GPS
+16:42	Error	ReadGPSDevices	La fecha/hora del móvil 04 es superior a la del GPS
+16:42	Error	ReadGPSDevices	La fecha/hora del móvil 05 es superior a la del GPS
+16:42	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 06
+16:42	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 07
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 100
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 101
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 102
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 103
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 104
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 105
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 106
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 107
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 108
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 109
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 110
+16:42	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 111
+16:43	Error	ReadGPSDevices	Error de conexion Ojos del Cielo en móvil 112

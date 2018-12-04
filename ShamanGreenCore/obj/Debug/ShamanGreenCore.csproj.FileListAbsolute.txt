@@ -1,0 +1,11 @@
+C:\Desarrollos.NET\Integraciones\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanNoscoSQL.exe
+C:\Desarrollos.NET\Integraciones\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanNoscoSQL.pdb
+C:\Desarrollos.NET\ShamanOjosCielo\ShamanOjosCielo\bin\debug\ShamanGreenCore.exe.config
+C:\Paramedic\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanNoscoSQLService.ProjectInstaller.resources
+C:\Paramedic\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanGreenCore.Properties.Resources.resources
+C:\Paramedic\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanNoscoSQLService.Service1.resources
+C:\Paramedic\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanGreenCore.csproj.GenerateResource.Cache
+C:\Desarrollos.NET\ShamanOjosCielo\ShamanOjosCielo\bin\debug\ShamanGreenCore.exe
+C:\Desarrollos.NET\ShamanOjosCielo\ShamanOjosCielo\bin\debug\ShamanGreenCore.pdb
+C:\Paramedic\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanGreenCore.exe
+C:\Paramedic\ShamanGreenCore\ShamanGreenCore\obj\Debug\ShamanGreenCore.pdb

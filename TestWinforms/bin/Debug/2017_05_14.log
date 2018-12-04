@@ -1,0 +1,8 @@
+Log 14/05/2017 12:00:00 a. m.
+22:35	Ok	setConexionDB	Conectado a Database Shaman
+22:35	Error	ReadNoscoRings	La cadena debe contener exactamente un carácter.
+22:36	Ok	setConexionDB	Conectado a Database Shaman
+22:40	Ok	setConexionDB	Conectado a Database Shaman
+22:40	Error	ReadNoscoRings	Índice fuera de los límites de la matriz.
+22:40	Ok	setConexionDB	Conectado a Database Shaman
+22:43	Ok	setConexionDB	Conectado a Database Shaman

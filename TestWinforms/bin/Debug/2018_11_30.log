@@ -1,0 +1,7 @@
+Log 30/11/2018 00:00:00
+11:15	Error	setConexionDB	No se pudieron recuperar las variables de conexión - La licencia se encuentra vencida o es ilegible
+11:15	Error	setConexionDB	No se pudieron recuperar las variables de conexión - La licencia se encuentra vencida o es ilegible
+11:21	Ok	setConexionDB	Conectado a Database Shaman
+11:21	Error	ReadNoscoRings	Unable to connect to any of the specified MySQL hosts.
+12:21	Ok	setConexionDB	Conectado a Database Shaman
+12:23	Error	ReadNoscoRings	Al grabar Ring Agente 101

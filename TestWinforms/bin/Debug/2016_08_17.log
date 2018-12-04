@@ -1,0 +1,10 @@
+Log 17/08/2016 12:00:00 a. m.
+14:27	Ok	setConexionDB	Conectado a Database Shaman
+14:27	Ok	ReadGPSDevices	Obtengo móviles activos
+14:28	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 01
+14:28	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 02
+14:28	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 03
+14:33	Error	ReadGPSDevices	El móvil 04 no registra sucesos GPS
+14:33	Error	ReadGPSDevices	El móvil 05 no está operativo
+14:33	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 06
+14:33	Ok	ReadGPSDevices	Actualizado GPS OK de Móvil 07
